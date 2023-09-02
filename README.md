@@ -11,3 +11,5 @@ make
 ```
 ./place -aux <input_file.aux>
 ```
+
+- Credit: Physical Design for Nanometer ICs, Spring 2023 @ National Taiwan University
