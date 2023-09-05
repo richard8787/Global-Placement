@@ -1,4 +1,4 @@
-# Global-Placement
+# Global Placement
 Implement a global placer to do global placement
 
 ## Compile and Execute
