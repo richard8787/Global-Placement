@@ -5,8 +5,7 @@ Implement a global placer to do global placement
 
 - Compile
 ```
-make clean
-make
+make clean && make
 ```
 
 - Run
